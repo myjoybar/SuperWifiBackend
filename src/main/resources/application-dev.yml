@@ -1,0 +1,4 @@
+server:
+   port: 8198
+   context-path: /superwifi
+#http://localhost:8085/signin/hello
